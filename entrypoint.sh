@@ -9,7 +9,7 @@ cp -p "${ENTERMEDIADB_HOME}/conf/im/delegates.xml" /etc/ImageMagick-6/
 mkdir -p "${ENTERMEDIADB_ENDPOINT}/tomcat"/{logs,temp}
 cp -rp "${ENTERMEDIADB_HOME}/tomcat/conf" "${ENTERMEDIADB_ENDPOINT}/tomcat"
 cp -rp "${ENTERMEDIADB_HOME}/tomcat/bin" "${ENTERMEDIADB_ENDPOINT}/tomcat"
-sed "s/%PORT%/${ENTERMEDIADB_PORT}/g" <"${ENTERMEDIADB_HOME}/tomcat/conf/server.xml.template" >"${ENTERMEDIADB_ENDPOINT}/tomcat/conf/server.xml"
+sed "s/%PORT%/8080/g" <"${ENTERMEDIADB_HOME}/tomcat/conf/server.xml.template" >"${ENTERMEDIADB_ENDPOINT}/tomcat/conf/server.xml"
 sed "s|%ENDPOINT%|${ENTERMEDIADB_ENDPOINT}|g" <"${ENTERMEDIADB_HOME}/tomcat/bin/tomcat.template" >"${ENTERMEDIADB_ENDPOINT}/tomcat/bin/tomcat"
 echo "export CATALINA_BASE=\"${ENTERMEDIADB_ENDPOINT}/tomcat\"" >> "${ENTERMEDIADB_ENDPOINT}/tomcat/bin/setenv.sh"
 echo "export JRE_HOME=\"${JAVA_HOME}\"" >> "${ENTERMEDIADB_ENDPOINT}/tomcat/bin/setenv.sh"
