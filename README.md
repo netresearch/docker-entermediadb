@@ -18,19 +18,9 @@ docker run --name entermediadb -p 8080:8080 -d netresearch/entermediadb
 
 Navigate to http://whateveryourhostis:8080 - the default username as well as the password are **admin**.
 
-### Environment variables
+### Data directory
 
-#### ENTERMEDIADB_ENDPOINT
-
-The path to the actual EnterMediaDB installation (default is `/opt/entermediadb`).
-
-### ENTERMEDIADB_DATA
-
-The path to where the asset data will be stored (default is `/media/data`). Please note that EnterMediaDB keeps some XML configuration inside a system directory in that location (created on run by this image).
-
-### ENTERMEDIADB_PORT
-
-The port, the tomcat server will listen to
+The data directory is at `/media/data` - in order to mount your data directory from outside, add `-v my-data-dir:/media/data` to the options of the `docker run` command above. 
 
 ## GitHub
 

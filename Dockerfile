@@ -10,12 +10,26 @@ RUN sed -i "s/httpredir.debian.org/`curl -s -D - http://httpredir.debian.org/dem
     && apt-get clean all \
     && rm -rf /var/lib/apt/lists/*
 
-ENV ENTERMEDIADB_ENDPOINT "/opt/entermediadb"
-ENV ENTERMEDIADB_DATA "/media/data"
-
 RUN useradd -ms /bin/bash entermedia
 
 RUN sed -i 's/esac/foreground)\nsu $TOMCAT7_USER -c "$CATALINA_BASE\/bin\/catalina.sh run"\n;;\nesac/' /usr/share/entermediadb/tomcat/bin/tomcat.template
+
+RUN cp -rp "/usr/share/entermediadb/conf/ffmpeg" "/home/entermedia/.ffmpeg" \
+    && mv /etc/ImageMagick-6/delegates.xml /etc/ImageMagick-6/delegates.old \
+    && cp -p "/usr/share/entermediadb/conf/im/delegates.xml" /etc/ImageMagick-6/ \
+    && mkdir -p "/opt/entermediadb/tomcat"/{logs,temp} \
+    && cp -rp "/usr/share/entermediadb/tomcat/conf" "/opt/entermediadb/tomcat" \
+    && cp -rp "/usr/share/entermediadb/tomcat/bin" "/opt/entermediadb/tomcat" \
+    && sed "s/%PORT%/8080/g" <"/usr/share/entermediadb/tomcat/conf/server.xml.template" >"/opt/entermediadb/tomcat/conf/server.xml" \
+    && sed "s|%ENDPOINT%|/opt/entermediadb|g" <"/usr/share/entermediadb/tomcat/bin/tomcat.template" >"/opt/entermediadb/tomcat/bin/tomcat" \
+    && echo "export CATALINA_BASE=\"/opt/entermediadb/tomcat\"" >> "/opt/entermediadb/tomcat/bin/setenv.sh" \
+    && echo "export JRE_HOME=\"${JAVA_HOME}\"" >> "/opt/entermediadb/tomcat/bin/setenv.sh" \
+    && chmod 755 "/opt/entermediadb/tomcat/bin/tomcat"
+    
+RUN cp -rp /usr/share/entermediadb/webapp /opt/entermediadb/ \
+    && mkdir -p /media \
+    && mv /opt/entermediadb/webapp/WEB-INF/data /media/data \
+    && ln -s /media/data /opt/entermediadb/webapp/WEB-INF/data
 
 EXPOSE 8080
 
