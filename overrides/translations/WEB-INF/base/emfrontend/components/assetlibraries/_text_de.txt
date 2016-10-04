@@ -1,0 +1,6 @@
+Libraries=Bibliotheken
+Collections=Sammlungen
+There\ are\ no\ project\ associated\ with\ this\ asset.\ \ Add\ project\ below.=Es ist kein Projekt mit diesem Asset verbunden. Fügen Sie unten ein Projekt hinzu.
+Add=Hinzufügen
+Add\ Library=Bibliothek hinzufügen
+Library\ not\ found=Bibliothek nicht gefunden

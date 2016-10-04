@@ -1,0 +1,5 @@
+Save=Speichern
+Add\ New\ Field=Neues Feld hinzufügen
+Field\ Name=Feldname
+Copy\ to\ catalog\ defaults=Kopier-Vorgaben zum Katalog
+delete=löschen

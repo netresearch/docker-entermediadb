@@ -1,0 +1,9 @@
+Tags=Tags
+Contact=Kontakt
+Categories=Kategorien
+Shopping\ Cart=Einkaufswagen
+as\ jpeg=als JPEG
+drag=ziehen
+Next\ Five=Nächste Fünf
+Previous\ Five=Letzte Fünf
+$asset=$asset

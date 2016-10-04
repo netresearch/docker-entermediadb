@@ -1,0 +1,4 @@
+Manager=Manager
+Search\ Collections=Suche Sammlungen
+open=geöffnet
+closed=geschlossen

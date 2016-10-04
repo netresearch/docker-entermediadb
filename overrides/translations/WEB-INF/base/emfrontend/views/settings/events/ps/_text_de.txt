@@ -1,0 +1,5 @@
+Refresh=Aktualisieren
+last\ run=Letzter Durchlauf
+running=In Bearbeitung
+repeats\ every=wiederholt sich jeden
+No\ events\ in\ queue=Keine Events in der Warteschlange

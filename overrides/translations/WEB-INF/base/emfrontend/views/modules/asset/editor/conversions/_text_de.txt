@@ -1,0 +1,13 @@
+Instructions=Anleitung
+Preview=Vorschau
+Download=Download
+Upload=Hochladen
+Assets\ reloaded=Assets neu geladen
+shown\ on\ the\ large\ image,\ and\ manipulate\ its\ size\ and\ location.\ A\ small\ preview\ of\ the\ resulting\ crop\ will\ appear\ on\ the\ Preview\ Panel\ above.=auf dem großen Bild, und ändern Sie deren Größe und Position. Eine kleine Vorschau des Ergebnis wird oben im Vorschaufenster angezeigt.
+crop-box\ selector=Zuschnitt-Auswahlbox
+Select\ code\ then\ right\ click\ to\ copy=Code auswählen, dann Rechtsklick zum kopieren
+Select\ the\ Submit\ button\ to\ commit\ the\ crop.=Klicken Sie Absenden-Button, um den Zuschnitt zu speichern.
+Preview\ Panel=Vorschaufenster
+To\ see\ a\ preview\ of\ the\ resulting\ crop,\ select\ the\ image\ in\ the\ Preview\ Panel.\ The\ cropped\ image\ will\ be\ shown\ as\ a\ ${width}px\ x\ ${height}px\ image.=Um eine Vorschau des Zuschnitts anzuzeigene, wählen Sie das Bild im Vorschaufenster. Das zugeschnittene Bild wird mit ${width}px x ${height}px angezeigt.
+Select\ the=Wählen Sie die
+Submit=Absenden

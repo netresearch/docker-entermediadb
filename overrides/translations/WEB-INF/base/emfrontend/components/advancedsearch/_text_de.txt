@@ -1,0 +1,2 @@
+Search=Suche
+Add\ Field=Feld hinzufügen

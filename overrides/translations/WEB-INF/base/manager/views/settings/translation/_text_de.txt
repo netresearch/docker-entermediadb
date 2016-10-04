@@ -1,0 +1,2 @@
+Read=Lesen
+Translation\ Exporter=Übersetzung exportieren

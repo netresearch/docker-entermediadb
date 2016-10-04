@@ -1,0 +1,4 @@
+Order\ Type=Bestellart
+User=Benutzer
+Status\ Updated=Status aktualisiert
+Id=Id

@@ -1,0 +1,5 @@
+Sort\ Tree=Baum sortieren
+Cleans\ out\ empty\ nodes\ with\ no\ assets\ in\ them=Entfernt leere Knoten ohne Assets
+Are\ you\ sure=Sind Sie sicher
+Trim\ Category\ Tree=Kategorienbaum bereinigen
+Sorts\ all\ categories\ alphanumerically=Sortiert alle Kategorien alphanummerisch

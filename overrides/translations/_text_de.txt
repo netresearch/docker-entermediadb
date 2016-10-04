@@ -1,0 +1,5 @@
+Catalog\ Administration=Katalogverwaltung
+Manager=Manager
+Powered\ by=unterstützt von
+Note\:\ the\ default\ login\ is=Hinweis\: Der Standard-Login ist
+Ask\ Us=Frag uns

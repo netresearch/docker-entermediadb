@@ -1,0 +1,2 @@
+Search\ for\ a\ location,\ drag\ the\ icon\ to\ the\ correct\ place\ and\ click\ the\ save\ button.\ Double\ left-click\ to\ zoom\ in,\ double\ right-click\ to\ zoom\ out=Suchen Sie einen Ort, ziehen Sie das Symbol an die richtige Stelle, und drücken Sie den Speichern-Button. Doppelter Linksklick zum Vergrößern, doppelter Rechtsklick zum Verkleinern.
+Save\ Values=Werte speichern

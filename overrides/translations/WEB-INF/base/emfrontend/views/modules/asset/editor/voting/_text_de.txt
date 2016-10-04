@@ -1,0 +1,7 @@
+Be\ the\ first\ to\ like\ this\ asset\!=Seien Sie der Erste, dem dieses Asset gefällt\!
+likes\ this=gefällt das
+You=Ihnen
+You\ like\ this=Ihnen gefällt das
+others=anderen
+and=und
+like\ this=gefällt das

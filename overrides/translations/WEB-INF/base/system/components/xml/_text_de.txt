@@ -1,0 +1,2 @@
+No\ details\ available\ for\ this\ view.\ \ Please\ configure\ your\ view\ settings.=Keine Daten zur Ansicht zur Verfügung - bitte bearbeiten Sie die Ansichtseinstellungen.
+required=erforderlich

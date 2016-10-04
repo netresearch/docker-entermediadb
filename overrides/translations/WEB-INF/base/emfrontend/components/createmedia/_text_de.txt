@@ -1,0 +1,8 @@
+Upload\ Media=Medien hochladen
+Add\ Remote\ Media=Aus Web hinzufügen
+Create\ Data\ Record=Datensatz erstellen
+Create\ empty\ data\ records\ then\ attach\ media\ later=Erstellen Sie Asset-Datensätze und fügen Sie die Medien später hinzu
+Make\ a\ live\ stream\ recording\ from\ your\ webcam=Zeichnen Sie ein Video mit Ihrer Webcam auf
+Create\ media\ assets\ from\ a\ URL\ or\ Embed\ code=Erstellen Sie Assets von einer URL oder einem Einbettungscode
+Upload\ media\ from\ local\ file\ system\ or\ camera=Laden Sie Medien von Ihrem Computer oder einer Kamera hoch
+Live\ Video\ Stream=Live-Video-Stream

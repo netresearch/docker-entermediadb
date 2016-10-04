@@ -1,0 +1,6 @@
+Libraries=Bibliotheken
+Collections=Sammlungen
+Details=Details
+Assets=Assets
+Create\ New=Neu
+Project\ Tracker=Projekt-Tracker

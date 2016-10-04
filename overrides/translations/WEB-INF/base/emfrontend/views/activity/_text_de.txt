@@ -1,0 +1,5 @@
+Please\ choose\ a\ download\ format\ for\ each\ type\ of\ asset.=Bitte wählen Sie je Asset ein Format zum Herunterladen.
+Session\ expired,\ Reload\ browser=Sitzung abgelaufen ist, bitte aktualisieren Sie das Fenster (F5)
+Downloading=Lade herunter
+Items=Elemente
+Invalid\ order,\ username\ does\ not\ match=Ungültige Reihenfolge, Benutzername passt nicht

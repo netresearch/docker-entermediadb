@@ -1,0 +1,2 @@
+No=Nein
+Yes=Ja

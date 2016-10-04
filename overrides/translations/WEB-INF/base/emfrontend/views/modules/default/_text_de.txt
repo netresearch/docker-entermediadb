@@ -1,0 +1,13 @@
+Results=Ergebnisse
+Add\ New=Neu hinzufügen
+Batch\ Edit=Stapelbearbeitung
+Cancel=Abbrechen
+Table=Tabelle
+Add\ Column=Spalte hinzufügen
+Edit\ Columns=Spalten bearbeiten
+Map=Karte
+Delete\ Selected\ Items=Ausgewählte Elemente löschen
+Custom\ Export=Benutzerdefinierter Export
+Export\ results=Ergebnisse exportieren
+Download\ Assets=Assets herunterladen
+Export\ results\ (friendly)=Ergebnisse exportieren (verständlich)

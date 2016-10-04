@@ -1,0 +1,13 @@
+Search=Suche
+Pick\ Categories=Kategorien auswählen
+You\ can\ only\ select=Sie können maximal
+View=Ansicht
+Loading\ more\ results=Lade mehr Ergebnisse
+chars\ more=Zeichen mehr ein
+chars\ less=Zeichen weniger ein
+entries=Eintrag auswählen
+No\ results=Keine Übereinstimmungen gefunden
+Searching=Suche
+Please\ enter=Bitte geben Sie
+entry=Einträge auswählen
+Enter\ comma\ separated\ tags=Geben Sie durch Komma getrennte Tags ein

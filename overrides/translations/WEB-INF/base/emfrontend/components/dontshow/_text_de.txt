@@ -1,0 +1,3 @@
+Show\ More=Zeige mehr
+Show\ Less=Zeige weniger
+Filters=Filter

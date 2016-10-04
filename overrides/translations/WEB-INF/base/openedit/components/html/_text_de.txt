@@ -1,0 +1,3 @@
+View=Ansicht
+Base=Basis
+Inline\ Edit=Inline-Bearbeitung

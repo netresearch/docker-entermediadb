@@ -1,0 +1,3 @@
+Roles=Rollen
+Users=Benutzer
+Groups=Gruppen

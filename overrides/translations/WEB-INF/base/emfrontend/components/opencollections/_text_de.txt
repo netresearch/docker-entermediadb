@@ -1,0 +1,7 @@
+Categories=Kategorien
+Publish=Veröffentlichen
+Open\ Collections=Sammlungen öffnen
+Create\ New=Neu
+Collection\ Search=Sammlungssuche
+Close\ Collection=Sammlung schließen
+Project\ Tracker=Projekt-Tracker

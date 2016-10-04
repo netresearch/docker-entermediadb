@@ -1,0 +1,3 @@
+Basket=Korb
+Add\ To\ Basket=In den Korb
+Remove\ From\ Basket=Aus dem Korb entfernen

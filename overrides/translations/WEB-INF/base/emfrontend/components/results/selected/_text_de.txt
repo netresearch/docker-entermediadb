@@ -1,0 +1,16 @@
+Results=Ergebnisse
+Add\ To\ Basket=In den Korb
+Remove\ From\ Basket=Aus dem Korb entfernen
+Edit=Bearbeiten
+View\ Selections=Ausgewählte zeigen
+Show\ All\ Results=Alle Ergebnisse anzeigen
+Edit\ selected\ records=Ausgewählte Datensätze bearbeiten
+Export\ to\ CSV=CSV-Export
+Select\ All\ Results=Alle Ergebnisse auswählen
+Multi\ Edit=Mehrfachbearbeitung
+Show\ All=Alle anzeigen
+Show\ Only\ Selections=Nur Ausgewählte anzeigen
+Deselect\ All=Auswahl aufheben
+Select\ This\ Page=Diese Seite auswählen
+Clear\ Selections=nichts auswählen
+Show\ Selected=Ausgewählte anzeigen

@@ -1,0 +1,3 @@
+Choose\ Table=Tabelle auswählen
+selected=ausgewählt
+Create\ New\ Table=Neue Tabelle erstellen

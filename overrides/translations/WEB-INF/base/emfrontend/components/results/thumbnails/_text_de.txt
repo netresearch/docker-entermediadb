@@ -1,0 +1,3 @@
+Drag\ to\ collection=Zur Sammlung ziehen
+Drag\ to\ Library\ or\ Category=In Bibliothek oder Kategorie ziehen
+drag\ to\ download=Ziehen zum Herunterladen

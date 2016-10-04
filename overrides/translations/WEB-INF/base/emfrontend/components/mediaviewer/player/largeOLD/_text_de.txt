@@ -1,0 +1,3 @@
+$asset=$asset
+drag\ to\ download=Ziehen zum Herunterladen
+Preview\ Image=Vorschaubild

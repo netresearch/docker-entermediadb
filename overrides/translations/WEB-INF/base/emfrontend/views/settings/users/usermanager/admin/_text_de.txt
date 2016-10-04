@@ -1,0 +1,5 @@
+Upload\ input\ file\:=Eingabedatei hochladen \:
+Export\ Groups=Gruppen exportieren
+User\ Import=Benutzerimport
+Group\ Import=Gruppenimport
+Export\ Users=Benutzer exportieren

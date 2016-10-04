@@ -1,0 +1,8 @@
+Actions=Aktionen
+Mounted\ Folders=Gemountete Ordner
+Remove\ this\ entry?=Diesen Eintrag entfernen?
+Path=Pfad
+Reload\ Mounts=Mounts erneut laden
+Add\ new\ entry=Neuen Eintrag hinzufügen
+External\ Path=Externer Pfad
+By\ default\ all\ files\ are\ version\ controlled=Standardmäßig stehen alle Dateien unter Versionskontrolle

@@ -1,0 +1,12 @@
+Delete\ File=Datei löschen
+Move\ or\ Rename\ File=Datei verschieben oder umbenennen
+Styles=Stile
+Download\ File=Datei herunterladen
+Copy\ file=Datei kopieren
+Properties=Eigenschaften
+Editor=Bearbeiten
+SEO=SEO
+Move\ and\ rename\ file=Datei verschieben und umbenennen
+Copy\ File=Datei kopieren
+Delete\ file=Datei löschen
+Raw=Roh

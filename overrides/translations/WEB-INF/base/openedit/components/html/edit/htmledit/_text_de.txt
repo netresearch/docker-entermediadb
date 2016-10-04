@@ -1,0 +1,2 @@
+Your\ changes\ are\ not\ saved=Ihre Änderungen werden nicht gespeichert
+Save\ changes=änderungen speichern

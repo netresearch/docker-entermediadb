@@ -1,0 +1,8 @@
+Go\ Back=Abbrechen
+Media\ URL\ Address=Medien-URL
+Fetch\ an\ external\ asset\ by\ its\ URL\ or\ embed\ code\ (may\ not\ be\ protected\ by\ a\ login)=Rufen Sie ein externes Asset über eine URL oder einen Einbettungscode ab (darf nicht durch einen Login geschützt sein)
+The\ EnterMedia\ scheduler\ will\ then\ download\ the\ file\ and\ create\ thumbnails\ or\ conversions=Das Asset wird dann im Hintergrund heruntergeladen und Thumbnails bzw. Umwandlungen erstellt.
+Import\ URL=Importieren
+Add\ Remote\ Media=Aus Web hinzufügen
+URL\ to\ external\ asset\ or\ YouTube/Vimeo\ link=URL zu externem Asset oder Link zu YouTube/Vimeo-Video
+Media\ Imported=Medien importiert

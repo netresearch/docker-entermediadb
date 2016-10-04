@@ -1,0 +1,6 @@
+Nobody=Niemand
+Anyone=Jeder
+Delete\ Data=Daten löschen
+Edit\ Data=Daten bearbeiten
+View\ Module=Modul ansehen
+Allow\:=Zulassen\:

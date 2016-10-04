@@ -1,0 +1,3 @@
+Please\ select\ an\ upload\ type\:=Bitte wählen Sie einen Upload-Typ\:
+You\ are\ not\ allowed\ to\ upload\ assets\ to\ any\ catalogs.=Sie sind nicht berechtigt, Assets zu einem Katalog hochzuladen.
+Please\ choose\ a\ catalog\:=Bitte wählen Sie einen Katalog\:

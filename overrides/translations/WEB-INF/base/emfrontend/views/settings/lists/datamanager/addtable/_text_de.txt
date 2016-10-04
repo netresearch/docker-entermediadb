@@ -1,0 +1,4 @@
+Table\ Name=Tabellenname
+Singular,\ spaces\ are\ not\ valid.=Einfache Leerzeichen sind nicht gültig.
+Storage\ Folder=Speicherordner
+Plural\ table\ name\:\ contacts=Plural Tabellenname\: Kontakte

@@ -1,0 +1,4 @@
+Are\ you\ sure=Sind Sie sicher
+Edit=Bearbeiten
+records=Datensätze
+Editing=Bearbeitung

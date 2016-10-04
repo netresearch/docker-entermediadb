@@ -1,0 +1,6 @@
+Manager=Manager
+open=geöffnet
+closed=geschlossen
+File\ Manager=Dateiverwaltung
+Links\ and\ Menus=Links und Menüs
+\ Return\ to\ site\ =Zurück zur Website

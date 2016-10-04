@@ -1,0 +1,2 @@
+records\ found=Datensätze gefunden
+Searched\ By=Suche nach

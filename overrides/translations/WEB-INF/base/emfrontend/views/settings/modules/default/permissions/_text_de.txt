@@ -1,0 +1,7 @@
+Nobody=Niemand
+Anyone=Jeder
+Allow\:=Zulassen\:
+Select\ a\ group=Wählen Sie eine Gruppe
+PERMISSIONS=BERECHTIGUNGEN
+Select\ a\ catalog=Wählen Sie einen Katalog
+Catalogs=Kataloge

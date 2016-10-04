@@ -1,0 +1,11 @@
+Upload\ Queue=Upload-Warteschlange
+Pick\ Files=Dateien auswählen
+Upload=Hochladen
+View\ Uploads=Ansicht Uploads
+Drop\ files\ here\!=Dateien hierher ziehen\!
+View\ Collection=Ansicht Sammlung
+Metadata=Metadaten
+Upload\ multiple\ files\ by\ using\ the=Upload mehrerer Dateien mit Hilfe der
+key\ on\ your\ keyboard\ while\ selecting\ the\ files\ you\ wish\ to\ upload=-Taste bei der Auswahl der Dateien, die Sie hochladen möchten
+Shift=Umschalt
+Information=Informationen

@@ -1,0 +1,3 @@
+Edit\ Permissions=Berechtigungen bearbeiten
+Note\:\ Sharing\ enables\ access\ to\ anonymous\ visitors=Hinweis\: Die Freigabe ermöglicht den Zugriff für anonyme Besucher
+No\ owner=Kein Eigentümer

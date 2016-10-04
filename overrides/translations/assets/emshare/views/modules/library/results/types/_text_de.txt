@@ -1,0 +1,5 @@
+Hot\ Folder\ Path=Hot Folder-Pfad
+Thumbnail=Miniaturansicht
+Name=Name
+Project\ Status=Projektstatus
+Department=Abteilung

@@ -1,0 +1,3 @@
+Create\ Data=Daten erstellen
+Create\ New\ Record=Neuen Datensatz erstellen
+Go\ Back=Abbrechen

@@ -1,0 +1,6 @@
+Drag\ to\ collection=Zur Sammlung ziehen
+$asset=$asset
+drag\ to\ download=Ziehen zum Herunterladen
+Preview\ Image=Vorschaubild
+Drag\ to\ desktop=Auf den Desktop ziehen
+Drag\ into\ applications\ as\ jpeg=Als jpeg in Anwendungen ziehen

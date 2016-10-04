@@ -1,0 +1,4 @@
+Delete=Löschen
+Cancel=Abbrechen
+Are\ you\ sure?=Sind Sie sicher?
+see\ more\ details=weitere Details anzeigen

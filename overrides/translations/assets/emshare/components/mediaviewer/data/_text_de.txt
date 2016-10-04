@@ -1,0 +1,5 @@
+Categories=Kategorien
+Libraries=Bibliotheken
+File\ Properties=Dateieigenschaften
+General=Allgemein
+Slideshow=Dia-Show

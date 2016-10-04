@@ -1,0 +1,2 @@
+Security=Sicherheit
+User\ Account\ Manager=Benutzerkontentverwaltung

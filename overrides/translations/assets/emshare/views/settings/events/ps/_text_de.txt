@@ -1,0 +1,12 @@
+Check\ for\ conversions\ that\ need\ to\ be\ run=Check für Umwandlungen, die ausgeführt werden müssen
+Refresh=Aktualisieren
+last\ run=Letzter Durchlauf
+running=In Bearbeitung
+Run\ media\ conversions=Medienumwandlungen erzeugen
+Clear\ Missing\ Originals=Aufräumen fehlender Originale
+Update\ Order\ History=Update Bestellhistorie
+repeats\ every=wiederholt sich jeden
+Publish\ Assets=Assets veröffentlichen
+Fetch\ assets\ from\ remote\ locations=Abrufen von Remote-Assets
+No\ events\ in\ queue=Keine Events in der Warteschlange
+Import\ Hot\ Folders=Hot-Folder importieren

@@ -1,0 +1,12 @@
+Asset\ Type=Asset-Typ
+Settings=Einstellungen
+Use\ Asset\ Type=Asset-Typ verwenden
+Render\ Table=Tabelle anzeigen
+Render\ Table\ Custom\ View=Tabelle in benutzerdefinierter Ansicht
+Render\ as\ Table?=Als Tabelle anzeigen?
+Show\ on\ registration\ section\:=In Registrierung anzeigen\:
+Render\ Table\ Default\ Sort=Tabelle Standardsortierung
+System\ View?=Systemansicht?
+Render\ Table\ External\ ID=Tabelle mit externer ID anzeigen
+View\ Name=Name anzeigen
+System\ Views=Systemansichten

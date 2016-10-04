@@ -1,0 +1,3 @@
+Editing\ across\ $asset.size()\ records=Bearbeitung über $ asset.size () Aufzeichnungen
+Editing\ across\ $asset.size()\ assets=$asset.size() Assets stapelweise bearbeiten
+Editing\ across=Bearbeitung für

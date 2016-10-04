@@ -1,0 +1,5 @@
+Reload\ Events=Events neu laden
+event\ is\ running=Event läuft gerade
+repeating=wiederholend
+Disabled=Inaktiv
+Reload\ List\ and\ Restart=Liste erneut laden und neustarten

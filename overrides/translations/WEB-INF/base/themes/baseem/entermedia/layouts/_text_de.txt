@@ -1,0 +1,13 @@
+New=Neu
+Your\ Friends=Ihre Freunde
+Clipboards=Zwischenablagen
+Edit\ my\ profile=Mein Profil bearbeiten
+Edit\ Clipboard=Zwischenablage bearbeiten
+You\ are\ now\ friends\ with\ ${owner.name}.=Sie sind jetzt mit ${owner.name} befreundet.
+Invite\ Friends=Freunde einladen
+View\ Clipboard=Zwischenablage anzeigen
+View\ Friends=Freunde anzeigen
+invite\ $owner\ to\ be\ your\ friend=$owner als Freund einladen
+EnterMedia=EnterMedia
+Recent\ Activity=Bisherige Aktionen
+Edit\ $content.albumname=$content.albumname bearbeiten

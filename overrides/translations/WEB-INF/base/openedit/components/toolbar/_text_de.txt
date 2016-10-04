@@ -1,0 +1,6 @@
+Live\ Mode=Live-Modus
+Edit\ Mode=Bearbeitungsmodus
+Clear\ Page\ Cache=Seiten-Cache leeren
+Debug\ Mode=Debug-Modus
+File\ Manager=Dateiverwaltung
+filemanager=Dateiverwaltung

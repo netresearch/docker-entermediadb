@@ -1,0 +1,3 @@
+Last\ Edited=zuletzt geändert
+Editable=editierbare
+Last\ Edited\ By=zuletzt geändert durch

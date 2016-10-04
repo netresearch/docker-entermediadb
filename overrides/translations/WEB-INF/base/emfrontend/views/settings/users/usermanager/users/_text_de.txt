@@ -1,0 +1,17 @@
+Role=Rolle
+Search=Suche
+Reindex=Neu indexieren
+Page=Seite
+No\ users\ found.=Keine Benutzer gefunden.
+Next=Weiter
+Create\ User=Benutzer erstellen
+Previous=Zurück
+Retype\ Password=Passwort wiederholen
+Permission\ Groups=Gruppenrechte
+Import\ Users=Benutzer Importieren
+USER=BENUTZER
+Home\ Page\ Does\ Not\ Exist=Website existiert nicht
+Home\ Page=Website
+Orders=Bestellungen
+Create\ New\ User=Neuen Benutzers erstellen
+Save\ Changes=Änderungen speichern

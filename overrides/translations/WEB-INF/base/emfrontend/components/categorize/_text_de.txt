@@ -1,0 +1,4 @@
+Categories=Kategorien
+Pick\ Categories=Kategorien auswählen
+Add\ categories\ below.=Fügen Sie unten Kategorien hinzu.
+There\ are\ no\ categories\ associated\ with\ this\ asset.=Dieses Asset wurde noch nicht mit einer Kategorie verknüpft.

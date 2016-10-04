@@ -1,0 +1,9 @@
+Notes=Notizen
+Email=E-Mail
+Enabled=Aktiviert
+First\ Name=Vorname
+User\ ID=Benutzer-ID
+Password=Passwort
+User\ Search=Benutzersuche
+Sent\ By=Gesendet von
+Last\ Name=Nachname

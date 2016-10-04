@@ -1,0 +1,4 @@
+No\ details\ available\ for\ this\ view.\ \ Please\ configure\ your\ view\ settings.=Keine Daten zur Ansicht zur Verfügung - bitte bearbeiten Sie die Ansichtseinstellungen.
+Optional,\ must\ be\ unique=Optional, muss eindeutig sein
+required=erforderlich
+Embedded\ code\ to\ external\ location=Einbettungscode des externen Assets

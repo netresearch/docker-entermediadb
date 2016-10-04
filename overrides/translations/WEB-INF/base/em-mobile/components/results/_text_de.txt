@@ -1,0 +1,9 @@
+View\ Table=Tabelle anzeigen
+Gallery\ View=Galerieansicht
+Add\ to\ Basket=In den Korb
+Change\ Result\ View=Ergebnisansicht ändern
+Category\ Folder\ View=Kategorieordneransicht
+items=Elemente
+View\ Gallery=Galerie ansehen
+Table\ View=Tabellenansicht
+Displaying\ records=Anzeige von Datensätzen

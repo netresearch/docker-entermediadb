@@ -1,0 +1,3 @@
+Categories=Kategorien
+Edit\ Categories=Kategorien bearbeiten
+Search\ Categories=Kategorien suchen

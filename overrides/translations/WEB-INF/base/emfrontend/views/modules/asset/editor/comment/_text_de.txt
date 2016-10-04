@@ -1,0 +1,7 @@
+Remove=Entfernen
+There\ are\ no\ comments\ on\ this\ asset.=Dieses Asset wurde noch nicht kommentiert.
+register\ here.=registrieren Sie sich bitte hier.
+Save\ Comment=Kommentar speichern
+If\ you\ don't\ have\ an\ account,\ please=Wenn Sie noch kein Benutzerkonto haben,
+You\ must\ be\ logged\ in\ to\ leave\ your\ own\ comments.=Sie müssen angemeldet sein, um zu kommentieren.
+Write\ a\ comment=Schreiben Sie einen Kommentar

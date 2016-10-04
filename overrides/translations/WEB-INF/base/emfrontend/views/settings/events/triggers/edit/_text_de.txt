@@ -1,0 +1,4 @@
+event\ is\ running=Event läuft gerade
+Save=Speichern
+in\ milliseconds\ (can\ use\ s,\ h,\ d\ or\ m)=in Millisekunden (kann s, h, d oder m verwenden)
+Run\ Now=Jetzt ausführen

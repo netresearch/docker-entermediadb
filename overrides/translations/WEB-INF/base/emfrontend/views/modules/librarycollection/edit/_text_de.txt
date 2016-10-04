@@ -1,0 +1,2 @@
+Edit=Bearbeiten
+View\ Assets=Ansicht Assets

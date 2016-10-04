@@ -1,0 +1,11 @@
+Asset\ Type=Asset-Typ
+File\ Format=Dateiformat
+Edit\ Status=Bearbeitungsstatus
+None=Unbekannt
+PNG=PNG
+Pending\ Approval=Freigabe erwartet
+JPG=JPG
+Photos=Fotos
+Show\ More=Zeige mehr
+Show\ Less=Zeige weniger
+Filters=Filter

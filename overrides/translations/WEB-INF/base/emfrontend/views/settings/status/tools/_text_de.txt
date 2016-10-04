@@ -1,0 +1,15 @@
+Disabled=Inaktiv
+Reindex=Neu indexieren
+Snapshots\ are\ used\ by\ ElasticSearch\ to\ store\ and\ restore\ database\ state=Snapshots werden von ElasticSearch zur Sicherung und Wierderherstellung des Datenbankstandes verwendet
+Validate\ Mapping\ Schema=Zuordnungsschema validieren
+Error\ Logs=Fehlerprotokolle
+Reloading\ lists\ should\ be\ performed\ after\ an\ upgrade=Das Neuladen von Listen sollte nach einem Upgrade durchgeführt werden
+Knapsack\ is\ used\ to\ create\ JSON\ based\ backups\ that\ can\ be\ moved\ between\ servers=Knapsack wird verwendet, um JSON-basierte Backups zu erstellen, die zwischen Servern verschoben werden kännen
+Enabled=Aktiviert
+This\ allows\ lists\ loaded\ from\ the\ installation\ to\ be\ integrated\ with\ your\ own\ lists.=Dies ermöglicht die Integration von während der Installation geladenen Listen mit Ihren eigenen Listen.
+View\ Knapsack=Knapsack ansehen
+View\ Mapping\ Errors=Zuordnungsfehler anzeigen
+View\ Snapshots=Snapshots anzeigen
+Log\ Search\ Requests=Suchanfragen protokollieren
+XML\ Management=XML-Management
+Reload\ lists=Listen neu laden
