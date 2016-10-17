@@ -17,7 +17,7 @@ RUN sed -i 's/esac/foreground)\nsu $TOMCAT7_USER -c "$CATALINA_BASE\/bin\/catali
 RUN cp -rp "/usr/share/entermediadb/conf/ffmpeg" "/home/entermedia/.ffmpeg" \
     && mv /etc/ImageMagick-6/delegates.xml /etc/ImageMagick-6/delegates.old \
     && cp -p "/usr/share/entermediadb/conf/im/delegates.xml" /etc/ImageMagick-6/ \
-    && mkdir -p "/opt/entermediadb/tomcat"/{logs,temp} \
+    && bash -c "mkdir -p /opt/entermediadb/tomcat/{logs,temp}" \
     && cp -rp "/usr/share/entermediadb/tomcat/conf" "/opt/entermediadb/tomcat" \
     && cp -rp "/usr/share/entermediadb/tomcat/bin" "/opt/entermediadb/tomcat" \
     && sed "s/%PORT%/8080/g" <"/usr/share/entermediadb/tomcat/conf/server.xml.template" >"/opt/entermediadb/tomcat/conf/server.xml" \

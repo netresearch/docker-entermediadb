@@ -7,9 +7,6 @@ for d in /overrides/*/ ; do
     cp -r "$d"* /opt/entermediadb/webapp;
 done
 
-mkdir -p /opt/entermediadb/tomcat/logs
-mkdir -p /opt/entermediadb/tomcat/temp
-
 chown -R entermedia. /opt/entermediadb
 chown -R entermedia. /media/data
 chown -R entermedia:entermedia /home/entermedia
