@@ -4,6 +4,9 @@ RUN sed -i "s/httpredir.debian.org/`curl -s -D - http://httpredir.debian.org/dem
     && echo "deb http://www.deb-multimedia.org jessie main non-free" >> /etc/apt/sources.list \
     && echo "deb-src http://www.deb-multimedia.org jessie main non-free" >> /etc/apt/sources.list \
     && echo "deb http://packages.entermediadb.org/repo/apt stable main" >> /etc/apt/sources.list \
+    && gpg --quiet --keyserver pgp.mit.edu --recv-keys 5C808C2B65558117 \
+    && gpg --quiet --armor --export 5C808C2B65558117 | apt-key add - \
+    && wget --quiet  -O /etc/apt/trusted.gpg.d/entermediadb.gpg http://packages.entermediadb.org/repo/apt/entermediadb.gpg \
     && apt-get update \
     && apt-get install -y --force-yes --no-install-recommends entermediadb \
     && apt-get autoremove -y \
